@@ -1,0 +1,44 @@
+{
+    "mamlakat": "O'zbekiston",
+    "poytaxt": "Toshkent",
+    "viloyatlar": [
+        {
+            "nomi": "Toshkent",
+            "aholi": 3500000,
+            "maydoni_km2": 334,
+            "asosiy_tarmoqlar": ["sanoat", "transport", "axborot texnologiyalari"],
+            "iqlim": "kontinental"
+        },
+        {
+            "nomi": "Samarqand",
+            "aholi": 1200000,
+            "maydoni_km2": 7400,
+            "asosiy_tarmoqlar": ["turizm", "qishloq xo‘jaligi", "to‘qimachilik"],
+            "iqlim": "issiq va quruq"
+        },
+        {
+            "nomi": "Buxoro",
+            "aholi": 870000,
+            "maydoni_km2": 41000,
+            "asosiy_tarmoqlar": ["gaz sanoati", "turizm", "hunarmandchilik"],
+            "iqlim": "cho‘l iqlimi"
+        },
+        {
+            "nomi": "Farg‘ona",
+            "aholi": 3800000,
+            "maydoni_km2": 6800,
+            "asosiy_tarmoqlar": ["paxta sanoati", "mexanika", "savdo"],
+            "iqlim": "yumshoq kontinental"
+        },
+        {
+            "nomi": "Xorazm",
+            "aholi": 1800000,
+            "maydoni_km2": 6300,
+            "asosiy_tarmoqlar": ["paxta", "dehqonchilik", "turizm"],
+            "iqlim": "issiq"
+        }
+    ],
+    "valyuta": "so‘m",
+    "mustaqillik_yili": 1991,
+    "aholi_umumiy": 36500000
+}
